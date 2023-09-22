@@ -28,15 +28,15 @@ The app will start running at <http://localhost:8080>.
 
 The app defines following CRUD APIs.
 
-    `GET /api/users`
+    GET /api/users
     
-    `POST /api/users`
+    POST /api/users
     
-    `GET /api/users/{id}`
+    GET /api/users/{id}
     
-    `PUT /api/users/{id}`
+    PUT /api/users/{id}
     
-    `DELETE /api/users/{id}`
+    DELETE /api/users/{id}
 
 You can test them using any Rest Client.
 
